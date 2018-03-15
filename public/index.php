@@ -34,7 +34,7 @@ $bot = new \LINE\LINEBot(
 /*
 $entityBody = file_get_contents('php://input');
 $data = json_decode($entityBody, true);
-
+ 
 
 $msg = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder("文字");
 foreach ($data as $key => $value) {
