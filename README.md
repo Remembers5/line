@@ -7,7 +7,7 @@ This project uses the [Slim framework](http://www.slimframework.com/).
 
 Getting started
 --
-
+   
 ```
 $ curl -sS https://getcomposer.org/installer | php # Install composer.phar
 $ ./composer.phar install
